@@ -10,4 +10,4 @@ static/styles.css
 /yarn.lock
 /yarn-error.log
 
-nodemon.bak.json
+nodemon.json
