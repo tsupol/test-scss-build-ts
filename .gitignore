@@ -1,0 +1,13 @@
+.idea
+
+node_modules
+
+.next
+static/styles.css
+/static
+
+#yarn
+/yarn.lock
+/yarn-error.log
+
+nodemon.bak.json
